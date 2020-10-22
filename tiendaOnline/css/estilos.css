@@ -1,0 +1,79 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#logo{
+	width: 20%;
+	float: left;
+}
+
+#titulo{
+	width: 45%;
+	float: left;
+}
+
+#login{
+	width: 35%;
+	float: left;
+}
+
+nav{
+  width: 100%;
+  clear: both;
+}
+
+.rojo{
+	color: #FF0000;
+}
+
+.rojobold{
+	color: #FF0000;
+	font-weight: bold;
+}
+
+.blanco{
+	color: #FFF;
+}
+
+.naranja{
+	color: #e6a756;
+}
+
+.negrobold{
+	color: #000;
+	font-weight: bold;
+}
+
+.negro{
+	color: #000;
+}
+
+.azulbold{
+	color: #5882FA;
+	font-weight: bold;
+}
+
+.azul{
+	color: #5882FA;
+}
+
+
+.backmenu{
+	background: linear-gradient(to right, #592F20 , #8C775E);
+	color: #000;
+}
+
+.backsubmenu{
+	color: #000;
+}
+
+.backsubmenu:hover{
+	color: #000;
+	font-weight: bold;
+}
+
+main{
+	height: 80vh;
+}
+

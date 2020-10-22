@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#logo{
+	width: 20%;
+	float: left;
+}
+#titulo{
+	width: 45%;
+	float: left;
+}
+#login{
+	width: 35%;
+	float: left;
+}
+nav{
+  width: 100%;
+  clear: both;
+}

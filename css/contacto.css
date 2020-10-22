@@ -1,0 +1,12 @@
+#divcontenedor{
+	background-color: #FFF;
+}
+
+#titgrande{
+	font-weight: bold;
+}
+
+#enviarcomentario{
+	cursor:pointer; 
+	cursor: hand;
+}
